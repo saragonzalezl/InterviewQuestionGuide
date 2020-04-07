@@ -2,6 +2,8 @@
 Reverse a singly linked list
 ___
 ## **Example:**
+![alt image](https://ibb.co/S3HCksb)
+
 
 ### **Check-in:**
 What would the following list look like reversed as the example above ? { 5, 8, 10, 34 }
@@ -82,7 +84,7 @@ O(*n*). Assume *n* is the length of the list.
 
 ___
 
-## **Review:** ##
+## **Review:**
 Which method is best for solving this problem? Under which circumstance is it better to use iterative or recursive?
 
 ___
