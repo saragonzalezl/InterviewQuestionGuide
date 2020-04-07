@@ -2,7 +2,7 @@
 Reverse a singly linked list
 ___
 ## **Example:**
-![alt image](https://ibb.co/S3HCksb)
+![alt image](https://pasteboard.co/J2M8Cod.png)
 
 
 ### **Check-in:**
