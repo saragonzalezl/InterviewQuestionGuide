@@ -81,7 +81,8 @@ public Node reverse(Node curr) {
 O(*n*). Assume *n* is the length of the list.
 
 ___
-##**Review:**##
+
+## **Review:** ##
 Which method is best for solving this problem? Under which circumstance is it better to use iterative or recursive?
 
 ___
