@@ -25,7 +25,7 @@ There are two ways to solve this problem, *Iterative* or *Recursive*.
 - curr → will point to the first node in our linked list 
 - next → represent the link; it can only point to null or to another node
  
- '''
+ ```
  public Node reverse(Node curr) {
 	Node prev= null;		// this is because it comes before the first node at the start
 	Node next = null; 
@@ -37,4 +37,7 @@ There are two ways to solve this problem, *Iterative* or *Recursive*.
 		}
 	return prev;			// prev points to the last node, which was the first node
 }
-'''
+```
+
+**In depth step-by-step illustration:**
+
