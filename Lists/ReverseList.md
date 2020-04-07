@@ -27,15 +27,25 @@ There are two ways to solve this problem, *Iterative* or *Recursive*.
  
  ```
  public Node reverse(Node curr) {
+ 
 	Node prev= null;		// this is because it comes before the first node at the start
+	
 	Node next = null; 
+	
 	while (curr != null) {	       // we know we reached the the end when curr points to null
+	
 		next = curr.next;
-		curr.next = prev;		// it is now linking to the first node 
+		curr.next = prev;		// it is now linking to the first node
+		
+		
 		prev = curr;			// now it points to the original first node and will continue as there are 							more iterations of the loop to move
+		
 		curr = next;		// now curr points to the new first node 
+		
 		}
+		
 	return prev;			// prev points to the last node, which was the first node
+	
 }
 ```
 
