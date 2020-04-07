@@ -14,7 +14,8 @@ ___
 
 There are two ways to solve this problem, *Iterative* or *Recursive*.
 
-###*Iterative:* This method loops through and changes the direction of the links. We must take a destructive approach, meaning we must change the original list in order to get the output we want instead of making an entirely new list and making the copy look like the output we want. By being an iterative solution, it means there is going to be a loop somewhere in our solution. There are five crucial observations we must accomplish:
+### *Iterative:* 
+This method loops through and changes the direction of the links. We must take a destructive approach, meaning we must change the original list in order to get the output we want instead of making an entirely new list and making the copy look like the output we want. By being an iterative solution, it means there is going to be a loop somewhere in our solution. There are five crucial observations we must accomplish:
 
 1. Null the reference of our first node / set *curr.next* to *prev* 
 2. Keep a *next* pointer 
@@ -50,7 +51,8 @@ There are two ways to solve this problem, *Iterative* or *Recursive*.
 O(*n*). Assume *n* is the length of the list.
 
 
-###*Recursive:* The key to the recursive method is working backwards. One has to assume the rest of the list has been reversed and tackle reversing the first node first. Therefore, there are five crucial steps:
+### *Recursive:* 
+The key to the recursive method is working backwards. One has to assume the rest of the list has been reversed and tackle reversing the first node first. Therefore, there are five crucial steps:
  
 1. Divide the list in two parts - first node and rest of the linked list
 2. Store nextNode pointer 			// the second node
