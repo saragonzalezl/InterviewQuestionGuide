@@ -1,6 +1,6 @@
 ## **Problem**
 
-**Reverse a singly linked list**
+Reverse a singly linked list
 ___
 ## **Example:**
 ![Example.png](https://i.postimg.cc/yxPW8mw8/Example.png)
