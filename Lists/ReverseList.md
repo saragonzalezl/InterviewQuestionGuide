@@ -55,7 +55,7 @@ Here is where the variables are stated
 
 First iteration result
 
-![2.png](https://i.postimg.cc/3RHmK47f/2.png)
+![Screen-Shot-2020-04-07-at-7-57-15-PM.png](https://i.postimg.cc/4d2Q54pJ/Screen-Shot-2020-04-07-at-7-57-15-PM.png)
 
 Second iteration result
 
