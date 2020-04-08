@@ -51,17 +51,21 @@ This method loops through and changes the direction of the links. We must take a
 
 Here is where the variables are stated
 
+
 ![1.png](https://i.postimg.cc/9MpVrK55/1.png)
 
 First iteration result
+
 
 ![1.png](https://i.postimg.cc/DwdvbSKb/1.png)
 
 Second iteration result
 
+
 ![2.png](https://i.postimg.cc/SxqX5FSC/2.png)
 
 Third iteration result
+
 
 ![3.png](https://i.postimg.cc/tJQRxW7W/3.png)
 
@@ -101,31 +105,37 @@ public Node reverse(Node curr) {
 
 **In depth step-by-step illustration:**
 
-![1.png](https://i.postimg.cc/1R7Tzsnc/1.png)
+![7.png](https://i.postimg.cc/Bv8yDzrP/7.png)
 
 This is what the input looks like
 
-![Screen-Shot-2020-04-07-at-7-58-52-PM.png](https://i.postimg.cc/WzWpzCRY/Screen-Shot-2020-04-07-at-7-58-52-PM.png)
+
+![6.png](https://i.postimg.cc/43SGRVgV/6.png)
 
 Making the first node to not point to other nodes
 
-![3.png](https://i.postimg.cc/0NHWyCr5/3.png)
+
+![5.png](https://i.postimg.cc/HscpYSxn/5.png)
 
 Separating the first node from the rest of the list
+
 
 ![4.png](https://i.postimg.cc/jdszB7dM/4.png)
 
 Separating the list into smaller pieces 
 
-![5.png](https://i.postimg.cc/HscpYSxn/5.png)
+
+![3.png](https://i.postimg.cc/0NHWyCr5/3.png)
 
 Reversing of the pieces, the rest
 
-![6.png](https://i.postimg.cc/43SGRVgV/6.png)
+
+![Screen-Shot-2020-04-07-at-7-58-52-PM.png](https://i.postimg.cc/WzWpzCRY/Screen-Shot-2020-04-07-at-7-58-52-PM.png)
 
 Reverse has occurred and now the nextNode.next = curr
 
-![7.png](https://i.postimg.cc/Bv8yDzrP/7.png)
+
+![1.png](https://i.postimg.cc/1R7Tzsnc/1.png)
 
 Return rest
 
