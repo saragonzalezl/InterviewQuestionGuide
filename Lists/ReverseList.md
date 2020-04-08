@@ -55,15 +55,15 @@ Here is where the variables are stated
 
 First iteration result
 
-![Screen-Shot-2020-04-07-at-7-57-15-PM.png](https://i.postimg.cc/4d2Q54pJ/Screen-Shot-2020-04-07-at-7-57-15-PM.png)
+![1.png](https://i.postimg.cc/DwdvbSKb/1.png)
 
 Second iteration result
 
-![3.png](https://i.postimg.cc/2Sh5CH6m/3.png)
+![2.png](https://i.postimg.cc/SxqX5FSC/2.png)
 
 Third iteration result
 
-![4.png](https://i.postimg.cc/6prBkyjp/4.png)
+![3.png](https://i.postimg.cc/tJQRxW7W/3.png)
 
 The output now that we go back to the base case the conditional is not met
 
