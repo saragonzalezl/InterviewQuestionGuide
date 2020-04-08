@@ -3,7 +3,7 @@
 **Reverse a singly linked list**
 ___
 ## **Example:**
-![Example.png](https://i.postimg.cc/yxPW8mw8/Example.png)]
+![Example.png](https://i.postimg.cc/yxPW8mw8/Example.png)
 
 
 ### **Check-in:**
@@ -105,7 +105,7 @@ public Node reverse(Node curr) {
 
 This is what the input looks like
 
-![2.png](https://postimg.cc/rzLYLFsS/2.png)
+![Screen-Shot-2020-04-07-at-7-58-52-PM.png](https://i.postimg.cc/WzWpzCRY/Screen-Shot-2020-04-07-at-7-58-52-PM.png)
 
 Making the first node to not point to other nodes
 
