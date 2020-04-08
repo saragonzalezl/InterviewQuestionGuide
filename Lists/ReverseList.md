@@ -105,7 +105,7 @@ public Node reverse(Node curr) {
 
 This is what the input looks like
 
-![2.png](https://postimg.cc/rzLYLFsS)
+![2.png](https://postimg.cc/rzLYLFsS/2.png)
 
 Making the first node to not point to other nodes
 
