@@ -130,7 +130,7 @@ Separating the list into smaller pieces
 Reversing of the pieces, the rest
 
 
-![Screen-Shot-2020-04-07-at-7-58-52-PM.png](https://i.postimg.cc/WzWpzCRY/Screen-Shot-2020-04-07-at-7-58-52-PM.png)
+![Screen-Shot-2020-04-07-at-8-09-37-PM.png](https://i.postimg.cc/90bShwRy/Screen-Shot-2020-04-07-at-8-09-37-PM.png)
 
 Reverse has occurred and now the nextNode.next = curr
 
