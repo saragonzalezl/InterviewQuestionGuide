@@ -47,6 +47,26 @@ This method loops through and changes the direction of the links. We must take a
 
 **In depth step-by-step illustration:**
 
+![Screen-Shot-2020-04-07-at-7-43-08-PM.png](https://i.postimg.cc/d10d7mM3/Screen-Shot-2020-04-07-at-7-43-08-PM.png)
+
+Here is where the variables are stated
+
+![1.png](https://i.postimg.cc/9MpVrK55/1.png)
+
+First iteration result
+
+![2.png](https://i.postimg.cc/3RHmK47f/2.png)
+
+Second iteration result
+
+![3.png](https://i.postimg.cc/2Sh5CH6m/3.png)
+
+Third iteration result
+
+![4.png](https://i.postimg.cc/6prBkyjp/4.png)
+
+The output now that we go back to the base case the conditional is not met
+
 
 **Complexity:**
 O(*n*). Assume *n* is the length of the list.
@@ -81,25 +101,33 @@ public Node reverse(Node curr) {
 
 **In depth step-by-step illustration:**
 
-[![Screen-Shot-2020-04-07-at-7-43-08-PM.png](https://i.postimg.cc/d10d7mM3/Screen-Shot-2020-04-07-at-7-43-08-PM.png)](https://postimg.cc/WDQtCZ1c)
+![1.png](https://i.postimg.cc/1R7Tzsnc/1.png)
 
-Here is where the variables are stated
+This is what the input looks like
 
-[![1.png](https://i.postimg.cc/9MpVrK55/1.png)](https://postimg.cc/ZBCXQf5V)
+![2.png](https://postimg.cc/rzLYLFsS)
 
-First iteration result
+Making the first node to not point to other nodes
 
-[![2.png](https://i.postimg.cc/3RHmK47f/2.png)](https://postimg.cc/TyCp0PKn)
+![3.png](https://i.postimg.cc/0NHWyCr5/3.png)
 
-Second iteration result
+Separating the first node from the rest of the list
 
-[![3.png](https://i.postimg.cc/2Sh5CH6m/3.png)](https://postimg.cc/FYFvZV3n)
+![4.png](https://i.postimg.cc/jdszB7dM/4.png)
 
-Third iteration result
+Separating the list into smaller pieces 
 
-[![4.png](https://i.postimg.cc/6prBkyjp/4.png)](https://postimg.cc/4Y3CtNRD)
+![5.png](https://i.postimg.cc/HscpYSxn/5.png)
 
-The output now that we go back to the base case the conditional is not met
+Reversing of the pieces, the rest
+
+![6.png](https://i.postimg.cc/43SGRVgV/6.png)
+
+Reverse has occurred and now the nextNode.next = curr
+
+![7.png](https://i.postimg.cc/Bv8yDzrP/7.png)
+
+Return rest
 
 
 **Complexity:**
