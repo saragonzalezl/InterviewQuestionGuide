@@ -2,7 +2,7 @@
 Reverse a singly linked list
 ___
 ## **Example:**
-![alt image](https://pasteboard.co/J2M8Cod.png)
+![Example.png](https://postimg.cc/ZvWJfdbG)
 
 
 ### **Check-in:**
@@ -91,4 +91,4 @@ Which method is best for solving this problem? Under which circumstance is it be
 
 ___
 **Source:**
-[title](https://leetcode.com/problems/reverse-linked-list/)
+[Link](https://leetcode.com/problems/reverse-linked-list/)
