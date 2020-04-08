@@ -3,7 +3,7 @@
 **Reverse a singly linked list**
 ___
 ## **Example:**
-![Example.png](https://i.postimg.cc/yxPW8mw8/Example.png)](https://postimg.cc/ZvWJfdbG)
+![Example.png](https://i.postimg.cc/yxPW8mw8/Example.png)]
 
 
 ### **Check-in:**
@@ -80,6 +80,26 @@ public Node reverse(Node curr) {
 ```
 
 **In depth step-by-step illustration:**
+
+[![Screen-Shot-2020-04-07-at-7-43-08-PM.png](https://i.postimg.cc/d10d7mM3/Screen-Shot-2020-04-07-at-7-43-08-PM.png)](https://postimg.cc/WDQtCZ1c)
+
+Here is where the variables are stated
+
+[![1.png](https://i.postimg.cc/9MpVrK55/1.png)](https://postimg.cc/ZBCXQf5V)
+
+First iteration result
+
+[![2.png](https://i.postimg.cc/3RHmK47f/2.png)](https://postimg.cc/TyCp0PKn)
+
+Second iteration result
+
+[![3.png](https://i.postimg.cc/2Sh5CH6m/3.png)](https://postimg.cc/FYFvZV3n)
+
+Third iteration result
+
+[![4.png](https://i.postimg.cc/6prBkyjp/4.png)](https://postimg.cc/4Y3CtNRD)
+
+The output now that we go back to the base case the conditional is not met
 
 
 **Complexity:**
